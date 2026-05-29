@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FunctionApp1/FunctionApp1.csproj" Id="b21d059b-b76c-4879-b81d-5f3daf05eebb" />
+  <Project Path="StudentRepo/StudentRepo.csproj" />
+</Solution>
